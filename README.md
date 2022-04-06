@@ -1,2 +1,11 @@
-# Proyecto full-stack
-## desarollado con HTML, Css, JavaScript, ReactJs, Java, Ioni, Doker.
+#Proyecto full-stack
+
+Desarollado con:
+
+- HTML5,
+- Css3,
+- JavaScript,
+- ReactJs,
+- Java,
+- Ioni,
+- Doker.
