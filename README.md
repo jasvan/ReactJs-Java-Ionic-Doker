@@ -1,1 +1,2 @@
-# ReactJs-Java-Ionic-Doker
+# Proyecto full-stack
+## desarollado con HTML, Css, JavaScript, ReactJs, Java, Ioni, Doker.
