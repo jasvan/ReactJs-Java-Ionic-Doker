@@ -1,7 +1,9 @@
-#Proyecto full-stack
+## Proyecto full-stack
 
-Desarollado con:
+##### Desarollado con:
 
+~~~
+* html
 * HTML5,
 * Css3,
 * JavaScript,
@@ -9,3 +11,5 @@ Desarollado con:
 * Java,
 * Ioni,
 * Doker.
+~~~
+
