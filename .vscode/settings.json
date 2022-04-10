@@ -1,3 +1,9 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": false,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15,
+    "background.filepath": "C:\\Users\\javer\\OneDrive\\DOCUMENTOS\\GitHub\\R.jpg",
+    "editor.fontFamily": "'JetBrains Mono', Fira code retina, 'Consolas'",
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on"
 }

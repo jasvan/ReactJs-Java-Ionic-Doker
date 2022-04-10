@@ -3,7 +3,7 @@
 ##### Desarollado con:
 
 ~~~
-* html
+* html,
 * HTML5,
 * Css3,
 * JavaScript,
@@ -12,4 +12,3 @@
 * Ioni,
 * Doker.
 ~~~
-
