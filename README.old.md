@@ -2,13 +2,14 @@
 
 ##### Desarollado con:
 
-
-## `html`,
-## `HTML5`,
-## `Css3`,
-## `JavaScript`,
-## `ReactJs`,
-## `Java`,
-## `Ioni`,
-## `Doker`.
+~~~
+. html,
+. HTML5,
+. Css3,
+. JavaScript,
+. ReactJs,
+. Java,
+. Ioni,
+. Doker.
+~~~
 
