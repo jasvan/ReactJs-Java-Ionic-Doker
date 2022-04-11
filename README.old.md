@@ -2,7 +2,7 @@
 
 ##### Desarollado con:
 
-~~~
+
 ## `html`,
 ## `HTML5`,
 ## `Css3`,
@@ -11,4 +11,4 @@
 ## `Java`,
 ## `Ioni`,
 ## `Doker`.
-~~~
+
